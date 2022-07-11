@@ -18,7 +18,7 @@ public class NotesCounter {
 			}
 		else
 		{
-			System.out.println("Your payment approach in order to give min mo of notes will be");
+			System.out.println("Your payment approach in order to give min no of notes will be");
 		}
 		for(int i=0;i<currency.length;i++)
 		{
